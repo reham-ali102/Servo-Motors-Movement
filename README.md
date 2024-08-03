@@ -82,7 +82,7 @@ void loop() {
 
 ## Images
 Here is an image showing the connections used in the project:
-![Project Connections](https://github.com/reham-ali102/Servo-Motors-Movement/blob/main/Servo-Moving.PNG)
 ![Project Connections](https://github.com/reham-ali102/Servo-Motors-Movement/blob/main/servo.PNG)
+![Project Connections](https://github.com/reham-ali102/Servo-Motors-Movement/blob/main/Servo-Moving.PNG)
 ```
 
